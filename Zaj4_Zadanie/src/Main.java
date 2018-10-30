@@ -10,8 +10,6 @@ public class Main {
 
         int option1;
         int option2;
-        String source;
-        String dest;
         Scanner scanner = new Scanner(System.in);
 
         if(args.length < 2){
